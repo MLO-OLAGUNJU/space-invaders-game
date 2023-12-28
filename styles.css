@@ -18,11 +18,11 @@ body {
   display: flex;
   flex-wrap: wrap;
 } */
-/* 
+
 .grid div {
   width: 25px;
   height: 25px;
-} */
+}
 
 .invader {
   background-color: purple;
