@@ -4,11 +4,10 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-
-/* body {
+body {
   padding: 50px 450px;
   background: linear-gradient(to left, blue, cyan);
-} */
+}
 
 .grid {
   width: 385px;
