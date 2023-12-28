@@ -8,7 +8,7 @@
 .grid {
   width: 302px;
   height: 302px;
-  border: 1px solid black;
+  border: solid black 1px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -24,5 +24,13 @@
 }
 
 .shooter {
+  background-color: green;
+}
+
+.laser {
+  background-color: orange;
+}
+
+.boom {
   background-color: red;
 }
