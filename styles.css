@@ -10,14 +10,14 @@ body {
   background: linear-gradient(to left, blue, cyan);
 }
 
-/* .grid {
+.grid {
   width: 385px;
   border-radius: 8px;
   height: 385px;
   border: solid white 5px;
   display: flex;
   flex-wrap: wrap;
-} */
+}
 
 .grid div {
   width: 25px;
